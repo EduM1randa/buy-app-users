@@ -1,2 +1,47 @@
-# Environment variables
+# Build results
+bin/
+obj/
+
+# User-specific files
+*.user
+*.suo
+*.userosscache
+*.userprefs
+
+# Logs
+*.log
+
+# Visual Studio Code settings
+.vscode/
+
+# Rider/JetBrains settings
+.idea/
+
+# DotNet artifacts
+*.vs/
+*.dll
+*.exe
+*.pdb
+
+# NuGet packages
+*.nupkg
+*.snupkg
+.nuget/
+
+# ASP.NET Core secrets and sensitive settings
 .env
+appsettings.Development.json
+
+# Docker artifacts
+.docker/
+docker-compose.override.yml
+
+# Launch profiles
+launchSettings.json
+
+# IDE temporary files
+*.ide
+
+# System files
+.DS_Store
+Thumbs.db
