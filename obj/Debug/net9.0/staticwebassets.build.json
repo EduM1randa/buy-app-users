@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "W8TpNesNSIECyTkAqQOTFljVD+CMjTfm/8/0Z8Fwjlg=",
+  "Source": "dotnet-users",
+  "BasePath": "_content/dotnet-users",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
